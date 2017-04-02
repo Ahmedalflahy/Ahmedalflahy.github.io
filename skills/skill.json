@@ -1,0 +1,17 @@
+{"skills":[
+	{"name":"HTML","description":"html is the short form of Hypertext Mark Up Language. Basically we use to create electronic documents such as web pages. We also use Html to format different text as title & headings, to add graphics on a site. HTML consists of a series of short codes & it has syntax like any other language"},
+	{
+    "name":"CSS","description":"css With CSS there can be many style sheets for various media. This lets you have some give when displaying the content. You can also change the characteristics of the components in the site to fit your situation.The point of CSS is to make things easier on your website and let you have control over many components. You can use these advantages to have more user-friendly pages that search engines also embrace well."
+     },
+     {
+    "name":"Javascript","description":"The main use of Javascript is that it allows you to make things happen in the user's browser without sending messages back and forth to the server. There are a variety of reasons why you might want to do this.with Javascript you can validate field-by-field rather than waiting until the user has completely filled out the screen and clicked a submit button."
+     },
+     {
+    "name":" jQuery","description":"jQ is a Javascript library designed to ease the client-side scripting of HTML. It is fast, concise and very flexible. There are so many libraries available, that we usuallly don’t need to write query for it… unlike Javascript. There are various plugins available for jQuery too, but these are some of the more broad reasons to choose jQuery."
+     },
+     {
+    "name":" RUBY","description":"ruby is mostly used for developing web application, since there is an famous web framework Ruby on Rails. You can build a web blog just in a few minitues using Rails."
+     }
+	
+
+]}

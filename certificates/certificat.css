@@ -1,0 +1,13 @@
+#cer1,#cer2,#cer3,#cer4{
+	height: 300px;
+	width: 500px;
+	padding: 20px;
+}
+#cer5,#cer6{
+	height: 400px;
+	width: 300px;
+	padding: 20px;
+}
+body{
+	background-color: green;
+}

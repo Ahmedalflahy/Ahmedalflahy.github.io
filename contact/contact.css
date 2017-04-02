@@ -1,0 +1,56 @@
+body{
+	background-image: url(../images/image-s1.jpg);
+
+}
+
+header{
+	height: 30px;
+	background-color:#FFFAFA;
+	padding-top: 4px;
+}
+img{
+	height: 180px;
+	width: 150;
+	padding-top: 5px;
+	border-radius: 20px;
+	float: left;
+}
+p{
+	float: left;
+	font-size: 35px;
+	padding-top: 65px;
+	padding-left:35px;
+}
+div{
+	clear: both;
+	padding-top: 260px;
+	padding-left:35px;
+
+}
+.fa fa-facebook-square fa-4x {
+	color: #00aff0;
+	margin-left: 40px;
+	
+}
+
+a{
+	padding-right: 20px
+}
+#sky{
+	color: #00aff0;
+    margin: 10px;
+}
+#text{
+	color: black
+}
+#envelope{
+	color: white;
+	margin: 10px;
+}
+#tex{
+	color: black;
+}
+#learn{
+	height: 50px;
+	width: 250px;
+}

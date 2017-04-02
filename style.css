@@ -1,1 +1,41 @@
-style.css
+
+header{
+	height: 35px;
+	background-color: #DFE2DB;
+	text-align: center;
+	margin-bottom: 10px;
+}
+body{
+	background-image: url(images/image-7.jpg);
+}
+.btn btn-default navbar-btn{
+}
+img{
+	height: 250px;
+	width: 300px;
+	margin-left: 20px;
+	padding-right:20px;
+	float: left;
+	border-radius: 5px;
+	
+}
+h1{
+	font-style: italic;
+	font-size: 50px;
+	/*font-family: serif;*/
+	font-family: 'Montserrat', sans-serif;
+	color: #fff;
+}
+a{
+	color: black;
+	margin-right: 15px;
+	font-family: 'Montserrat', sans-serif;
+
+}
+a:visited{
+	color: black;
+	
+}
+a:hover{
+	color:red;
+}
