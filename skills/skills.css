@@ -1,21 +1,12 @@
-#cer1,#cer2,#cer3,#cer4{
-	height: 300px;
-	width: 500px;
-	padding: 20px;
-}
-#cer5,#cer6{
-	height: 400px;
-	width: 300px;
-	padding: 20px;
-}
-body{
-	background-color: #ECECEA;
-}
 header{
 	height: 30px;
-	background-color:#6DBDD6;
+	background-color:#ECECEA;
      text-align: center;
 	padding-top: 4px;
+}
+body{
+	
+	background-color:#6DBDD6;
 }
 a{
 	color: black;
@@ -29,4 +20,7 @@ a:visited{
 }
 a:hover{
 	color:red;
+}
+.skill {
+	padding-left: 3%;
 }

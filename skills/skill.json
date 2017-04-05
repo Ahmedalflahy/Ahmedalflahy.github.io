@@ -1,5 +1,5 @@
 {"skills":[
-	{"name":"HTML","description":"html is the short form of Hypertext Mark Up Language. Basically we use to create electronic documents such as web pages. We also use Html to format different text as title & headings, to add graphics on a site. HTML consists of a series of short codes & it has syntax like any other language"},
+	{"name":"HTML","description":"html is the short form of Hypertext Mark Up Language. Basically we use to create electronic documents such as web pages. We also use Html to format different text as title & headings, to add graphics on a site. HTML consists of a series of short codes & it has syntax like any other language."},
 	{
     "name":"CSS","description":"css With CSS there can be many style sheets for various media. This lets you have some give when displaying the content. You can also change the characteristics of the components in the site to fit your situation.The point of CSS is to make things easier on your website and let you have control over many components. You can use these advantages to have more user-friendly pages that search engines also embrace well."
      },

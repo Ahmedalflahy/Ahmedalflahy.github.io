@@ -1,4 +1,10 @@
-
+header{
+	height: 30px;
+	background-color:#6DBDD6;
+     text-align: center;
+	padding-top: 4px;
+	margin-bottom: 1%;
+}
 
 body {
 	background: url(../images/books2.jpg) no-repeat;

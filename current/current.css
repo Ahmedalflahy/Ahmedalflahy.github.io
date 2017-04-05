@@ -15,39 +15,30 @@ header #title {
 			font-family: 'Exo 2', sans-serif;
 			font-size: 2.5em;
             
+            
 		}
-img{
-	height: 180px;
-	width: 180px;
-	padding-top: 5px;
-	padding-left:  20px;
-	border-radius: 50px;
-	float: left;
-}
-h1{
-    
-	padding-left:35%;
-	font-style: italic;
-	font-size: 50px;
-	/*font-family: serif;*/
-	font-family: 'Montserrat', sans-serif;
-	color: #fff;
+		h1{
+			padding-left: 1%;
+		}
+		#result1{
+			background-color: #00aff0;
+			padding: 20px;
+			width: 40%;
+            margin-left:  15%;
+			-webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+			-moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+			box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
 
-}
-h4{
-	padding-left:32%;
-	font-style: italic;
-	color: black;
-}
-#links a {
-	font-family: 'Exo 2', sans-serif;
-	font-size: 16px;
-}
-a{
+		}
+		a{
 	color: black;
 	margin-right: 15px;
 	font-family: 'Montserrat', sans-serif;
 
+}
+#links a {
+	font-family: 'Exo 2', sans-serif;
+	font-size: 16px;
 }
 a:visited{
 	color: black;
@@ -72,4 +63,7 @@ footer{
 } 
 #foot{
 padding-top:23%;
+}
+#project{
+	margin-left:  3%;
 }
