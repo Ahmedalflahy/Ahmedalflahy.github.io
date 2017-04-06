@@ -13,13 +13,13 @@ header{
 }
 header #title {
 			font-family: 'Exo 2', sans-serif;
-			font-size: 2.5em;
-            
+			font-size: 2.5em;    
 		}
-h3{
-	margin: 3px;
-	color: black;
-}
+		h2{
+			padding-left: 3%;
+			color: black;
+		}
+
 #q1,#q2,#q3{
 	font-size: 20px;
 	margin-bottom:10px;
@@ -62,7 +62,15 @@ h3{
 }
 #bq1,#bq2,#bq3{
 	display: none;
+	margin-left: 2%;
 }
+
+.h3{
+	padding-left: 2%;
+	color: black;
+}
+
+
 #links a {
 	font-family: 'Exo 2', sans-serif;
 	font-size: 16px;

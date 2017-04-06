@@ -1,0 +1,48 @@
+body{
+	    background-color: #ECECEA;
+}
+
+header{
+	height: 15%;
+	background-color:#6DBDD6;
+     text-align: center;
+	padding-top: 4px;
+	border-bottom: 1px solid;
+	border-color: black;
+	margin-bottom: 1%;
+}
+header #title {
+			font-family: 'Exo 2', sans-serif;
+			font-size: 2.5em;
+		}
+		
+a{
+	color: black;
+	margin-right: 15px;
+	font-family: 'Montserrat', sans-serif;
+
+}
+#links a {
+	font-family: 'Exo 2', sans-serif;
+	font-size: 16px;
+}
+a:visited{
+	color: black;
+	
+}
+a:hover{
+	color:red;
+}
+#video{
+	padding-left: 2%;
+}
+#others{
+	padding-left: 2%;
+}
+#btn{
+	margin-left:2%;
+	margin-bottom: 10px;
+}
+h3{
+	padding-left: 2%;
+}
