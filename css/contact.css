@@ -71,6 +71,7 @@ img{
 
 #tex{
 	color: black;
+	padding-left: 17%;
 }
 #learn{
 	height: 50px;
@@ -114,7 +115,7 @@ a:visited{
 a:hover{
 	color:black;
 }
-/*a{
+a{
 	color: black;
 	margin-right: 15px;
 	font-family: 'Montserrat', sans-serif;
@@ -126,7 +127,14 @@ a:visited{
 }
 a:hover{
 	color:black;
-}*/
+}
 #facebook{
 	color: #365899;
+    padding-left: 12%;
+}
+#github{
+	    padding-left: 30%;
+}
+#phone{
+	    padding-left: 17%
 }
