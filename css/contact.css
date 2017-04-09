@@ -52,11 +52,7 @@ img{
 	
 }
 
-a{
-	padding-right:20px;
-	margin-right:100px;
-	margin-left:100px;
-}
+
 #sky{
 	color: #00aff0;
     margin: 10px;
@@ -107,6 +103,10 @@ a{
 	font-family: 'Montserrat', sans-serif;
 
 }
+#links a {
+	font-family: 'Exo 2', sans-serif;
+	font-size: 16px;
+}
 a:visited{
 	color: black;
 	
@@ -114,6 +114,19 @@ a:visited{
 a:hover{
 	color:black;
 }
+/*a{
+	color: black;
+	margin-right: 15px;
+	font-family: 'Montserrat', sans-serif;
+
+}
+a:visited{
+	color: black;
+	
+}
+a:hover{
+	color:black;
+}*/
 #facebook{
 	color: #365899;
 }

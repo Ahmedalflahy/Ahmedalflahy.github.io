@@ -38,6 +38,7 @@ h4{
 	padding-left:32%;
 	font-style: italic;
 	color: black;
+	margin-left: 8%;
 }
 #links a {
 	font-family: 'Exo 2', sans-serif;
@@ -72,4 +73,10 @@ footer{
 } 
 #foot{
 padding-top:23%;
+}
+#line {
+	padding-left:32%;
+	font-style: italic;
+	color: black;
+	margin-left: 5%;
 }
