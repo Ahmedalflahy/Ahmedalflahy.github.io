@@ -1,13 +1,10 @@
 $(document).ready(function(){
-
 $("#project").click(function(){
 	ajaxGitRequest();
 });
 })
 function ajaxGitRequest(){
-	//debugger
 	$("#result").html(' ')
-
 	$.get('https://api.github.com/users/Ahmedalflahy/repos?sort=created&per_page=5',function(data){
 	$.each(data,function(i,itm){
 		var dt = new Date (itm.created_at);
